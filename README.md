@@ -2,8 +2,10 @@
 in this repo I will to share with you all my public CTF's Writeups "TryHackMe/Hackthebox/HackMyVM ..."
 
 # HackMyVM
-Name          : Universe\n
-Release Date  : 2024-03-13\n
+Name          : Universe
+
+Release Date  : 2024-03-13
+
 created by    : c4rta
 Level         : Hard
 WriteUp link  : https://medium.com/@ziyos130/solution-universe-ctf-from-hackmyvm-da0fa92dd990
