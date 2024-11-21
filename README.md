@@ -1,6 +1,7 @@
 # all-my-writeups
 in this repo I will to share with you all my public CTF's Writeups "TryHackMe/Hackthebox/HackMyVM ..."
 
+]====================================================================================================[
 # HackMyVM
 Name          : Universe
 
@@ -11,6 +12,18 @@ created by    : c4rta
 Level         : Hard
 
 WriteUp link  : https://medium.com/@ziyos130/solution-universe-ctf-from-hackmyvm-da0fa92dd990
+
+]----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------[
+
+Name          : LEET
+
+Release Date  : 2024-07-01
+
+created by    : cromiphi
+
+Level         : Hard
+
+WriteUp link  : https://youtu.be/mvWnncUvRZQ?si=4SNc-e0mObZzsHPx
 
 ]====================================================================================================[
 
